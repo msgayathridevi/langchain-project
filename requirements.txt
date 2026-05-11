@@ -10,3 +10,4 @@ pypdf
 langchain-text-splitters
 jq
 unstructured[pdf, csv, txt, json, md]
+langchain_google_genai
