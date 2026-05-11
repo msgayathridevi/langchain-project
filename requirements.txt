@@ -1,4 +1,10 @@
 langchain
 langchain_openai
 python-dotenv
+langchain_ollama
 ollama
+grandalf
+langchain-text-splitters
+langchain-community
+pypdf
+langchain-text-splitters
