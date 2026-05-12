@@ -13,3 +13,5 @@ unstructured[pdf, csv, txt, json, md]
 langchain_google_genai
 chromadb
 faiss-cpu
+rank-bm25
+langchain-classic
